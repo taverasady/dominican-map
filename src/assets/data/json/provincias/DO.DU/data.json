@@ -1,0 +1,44 @@
+[
+ {
+   "id": "30601000000000",
+   "value": "100",
+   "municipioName": "San Francisco de Macorís",
+   "numberOfRequests": 10
+ },
+ {
+   "id": "30602000000000",
+   "value": "10",
+   "municipioName": "Arenoso",
+   "numberOfRequests": 100
+ },
+ {
+   "id": "30603000000000",
+   "value": "50",
+   "municipioName": "Castillo",
+   "numberOfRequests": 900
+ },
+ {
+   "id": "30604000000000",
+   "value": "200",
+   "municipioName": "Pimentel",
+   "numberOfRequests": 200
+ },
+ {
+   "id": "30605000000000",
+   "value": "0",
+   "municipioName": "Villa Riva",
+   "numberOfRequests": 200
+ },
+ {
+   "id": "30606000000000",
+   "value": "0",
+   "municipioName": "Las Guáranas",
+   "numberOfRequests": 150
+ },
+ {
+   "id": "30607000000000",
+   "value": "0",
+   "municipioName": "Eugenio María de Hostos",
+   "numberOfRequests": 150
+ }
+]

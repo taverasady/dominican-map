@@ -1,0 +1,40 @@
+{
+  "name": "dominican-map",
+  "version": "0.1.1",
+  "private": false,
+  "main": "./dist/dominican.common.js",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "build-bundle": "vue-cli-service build --target lib --name dominican ./src/components/index.js"
+  },
+  "dependencies": {
+    "anychart": "^8.7.0",
+    "axios": "^0.19.2",
+    "core-js": "^2.6.5",
+    "vue": "^2.6.10"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.11.0",
+    "@vue/cli-service": "^3.11.0",
+    "json-loader": "^0.5.7",
+    "vue-template-compiler": "^2.6.10"
+  },
+  "files": [
+    "dist/*",
+    "src/*",
+    "public/*",
+    "*.json",
+    "*.js",
+    "*.css"
+  ],
+  "postcss": {
+    "plugins": {
+      "autoprefixer": {}
+    }
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ]
+}

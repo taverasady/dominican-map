@@ -1,0 +1,56 @@
+[
+  {
+    "id": "11801000000000",
+    "value": "0",
+    "municipioName": "Puerto Plata",
+    "numberOfRequests": 300
+  },
+  {
+    "id": "11802000000000",
+    "value": "0",
+    "municipioName": "Altamira",
+    "numberOfRequests": 0
+  },
+  {
+    "id": "11803000000000",
+    "value": "0",
+    "municipioName": "Guananico",
+    "numberOfRequests": 0
+  },
+  {
+    "id": "11804000000000",
+    "value": "0",
+    "municipioName": "Imbert",
+    "numberOfRequests": 0
+  },
+  {
+    "id": "11805000000000",
+    "value": "0",
+    "municipioName": "Los Hidalgos",
+    "numberOfRequests": 0
+  },
+  {
+    "id": "11806000000000",
+    "value": "0",
+    "municipioName": "Luperón",
+    "numberOfRequests": 0
+  },
+  {
+    "id": "11807000000000",
+    "value": "0",
+    "municipioName": "Sosúa",
+    "numberOfRequests": 0
+  },
+  {
+    "id": "11808000000000",
+    "value": "0",
+    "municipioName": "Villa Isabela",
+    "numberofrequests": 0
+  },
+  {
+    "id": "11809000000000",
+    "value": "0",
+    "municipioName": "Villa Montellano",
+    "numberofrequests": 0
+  }
+ ]
