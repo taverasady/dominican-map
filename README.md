@@ -5,7 +5,8 @@
 </p>
 
 ## Preview
-https://gfycat.com/wealthywateryhagfish
+
+![](dominican-map.gif)
 
 ## Live demo:
 https://dominican-map-live-example.taverasady.now.sh/
