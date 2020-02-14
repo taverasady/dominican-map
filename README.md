@@ -17,7 +17,7 @@ npm install dominican-map
 ```
 
 ### Usage
-```
+```html
 <template>
   <section>
     <dominican-map
@@ -102,7 +102,7 @@ for the country map: Default value: 201.
 **innerMapCustomData**: custom JSON you provide for the town data, using the object property "provincia" to replace the default data with yours.
 
 ### Working with custom data for the main map: 
-```
+```javascript
 In order for you to work with custom data, you need to define in your API an object property to link with the specified city the user will hover (id) for example.
 	
       customData: [
@@ -145,7 +145,7 @@ the "value", is the info you would like to display on hover, the provienceName w
 ```
 
 ### Working with custom data for towns: 
-```
+```javascript
   customInnerData: [
         {
           id: "50201000000000",
