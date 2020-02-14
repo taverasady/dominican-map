@@ -1,4 +1,14 @@
-# dominican-map-component
+<h1 align="center">Vue js Dominican map component</h1>
+
+<p align="center"> 
+<img src="https://cdn6.aptoide.com/imgs/4/4/9/4495d03338c42a4374a48fa3aacd8881_icon.png?w=256">
+</p>
+
+## Preview
+https://gfycat.com/wealthywateryhagfish
+
+## Live demo:
+https://dominican-map-live-example.taverasady.now.sh/
 
 ## Installation
 ```
