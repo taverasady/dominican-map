@@ -56,40 +56,40 @@ export default {
 
 ### Props:
 ```
-hasToolTipMessage: is set to true by default, with this prop you can specify if you wish to provide a toolTipMessage when the user hover's over a provience.
+**hasToolTipMessage**: Is set to true by default, with this prop you can specify if you wish to provide a toolTipMessage when the user hover's over a provience.
 
-hasToolTipMessageDetailMap: is set to true by default, with this prop you can specify if you wish to provide a toolTipMessage over the town the user has clicked.
+**hasToolTipMessageDetailMap**: Is set to true by default, with this prop you can specify if you wish to provide a toolTipMessage over the town the user has clicked.
 
-mapToolTipMessage: you can specify the message to display to the user when they hovers a provience/town.
+**mapToolTipMessage**: Used to specify the message to display to the user when they hovers a provience/town.
 
-toolTipValue: is set to "value" by default, you can provide the property name from your object data.
+**toolTipValue**: Is set to "value" by default, you can provide the property name from your object data.
 
-detailMapToolTip:"you can specify the message to display to the user when they hovers a provience/town."
+**detailMapToolTip**: Used to specify the message to display to the user when they hovers a provience/town.
 
-detailMapToolTipValue: is set to "value" by default, you can provide the property name from your object data.
+**detailMapToolTipValue**: Is set to "value" by default, you can provide the property name from your object data.
 
-fromMainMapValue: with this prop you can set the amount from where do you want to have an X. Default value : 0
+**fromMainMapValue**: With this prop you can set the amount from where do you want to have an X. Default value : 0
  
-toMainMapValue: with this prop you can set the amount until you want your provience/town to display X color. Default value : 200
+**toMainMapValue**: With this prop you can set the amount until you want your provience/town to display X color. Default value : 200
 
-greaterThanMainMapValue: with this prop you can set a different color, starting at a X value: Default value: 201.
+**greaterThanMainMapValue**: With this prop you can set a different color, starting at a X value: Default value: 201.
 
-fromToDetailedMapColor: with this prop you can set the amount from where do you want to have an X color for the 
+**fromToDetailedMapColor**: with this prop you can set the amount from where do you want to have an X color for the 
 country map. Default value: 0
  
-greaterThanDetailedMapValue: with this prop you can set the amount until you want your provience/town to display X color
+**greaterThanDetailedMapValue**: With this prop you can set the amount until you want your provience/town to display X color
 for the country map . Default value: 200
 
-greaterThanDetailedMapColor: with this prop you can set a different color, starting at a X value
+**greaterThanDetailedMapColor**: With this prop you can set a different color, starting at a X value
 for the country map: Default value: 201.
 
-isBackButtonVisible: property to show the back buttom once we already drill in the map.
+**isBackButtonVisible**: Property to show the back buttom once we already drill in the map.
 
-buttonMessage: display text on the button to ''go back'' when drilling in the town.
+**buttonMessage**: display text on the button to ''go back'' when drilling in the town.
 
-mapDataSrc: custom JSON you can provide for the main map data.
+**mapDataSrc**: custom JSON you can provide for the main map data.
 
-innerMapCustomData: custom JSON you provide for the town data, using the object property "provincia" to replace the default data with yours.
+**innerMapCustomData**: custom JSON you provide for the town data, using the object property "provincia" to replace the default data with yours.
 
 ```
 
