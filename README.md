@@ -200,11 +200,9 @@ the "value", is the info you would like to display on hover, the provienceName w
           provincia: "DO.AZ"
         }
       ]
-In a real case the array will include the entire object info for all towns, the "value", is the info you would like to display on hover the municipioName is the name of each town in the provience,
-and the provincia is the key that your entire provience object should have for each specific town. You can see the full provience keys (id and provincia) <https://github.com/taverasady/dominican-map/tree/master/src/assets/data/json/provincias>.
-
-
 ```
+In a real case the array will include the entire object info for all towns, the "value", is the info you would like to display on hover the municipioName is the name of each town in the provience,
+and the provincia is the key that your entire provience object should have for each specific town. You can see the full provience keys (id and provincia) [here](https://github.com/taverasady/dominican-map/tree/master/src/assets/data/json/provincias).
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
