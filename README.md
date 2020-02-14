@@ -55,7 +55,7 @@ export default {
 ```
 
 ### Props:
-```
+
 **hasToolTipMessage**: Is set to true by default, with this prop you can specify if you wish to provide a toolTipMessage when the user hover's over a provience.
 
 **hasToolTipMessageDetailMap**: Is set to true by default, with this prop you can specify if you wish to provide a toolTipMessage over the town the user has clicked.
@@ -90,8 +90,6 @@ for the country map: Default value: 201.
 **mapDataSrc**: custom JSON you can provide for the main map data.
 
 **innerMapCustomData**: custom JSON you provide for the town data, using the object property "provincia" to replace the default data with yours.
-
-```
 
 ### Working with custom data for the main map: 
 ```
